@@ -13,7 +13,7 @@ class Login extends CI_Controller {
 	public function index()
 	{
 		//Mengarahkan URL untuk view masuk
-		$this->load->view('login');
+		$this->load->view('masuk');
 	}
 
 	public function proses()
