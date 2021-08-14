@@ -31,7 +31,7 @@ Untuk memudahkan memasang apilikasi saya akan menyertakan folder default setting
 
 * Folder Default xampp sebagai config base url
   ```sh
-  http://localhost/uas-pegawai/
+  C:\xampp\htdocs\uas-pegawai
   ```
 
 * Nama database Default xampp sebagai config database
