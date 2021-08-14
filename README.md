@@ -36,8 +36,10 @@ Untuk memudahkan memasang apilikasi saya akan menyertakan folder default setting
 
 * Nama database Default xampp sebagai config database
   ```sh
-  http://localhost/uas-pegawai/
+  10119263_kepegawaian
   ```
+
+File SQL sudah di dump dan terdapat pada bagian code awal project
 
 ## Account Default Untuk Login
 
