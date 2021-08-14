@@ -30,7 +30,7 @@ class Register extends CI_Controller {
 			//Memasukan username, password, dan nama kedalam database, Memberikan flashdata pendaftaran berhasil & mengarahkan kehalaman login
 			$this->auth->register($username,$password,$nama);
 			$this->session->set_flashdata('success_register','Proses Pendaftaran User Berhasil');
-			redirect('masuk');
+			redirect('login');
 		}
 		else
 		{
