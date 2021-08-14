@@ -43,7 +43,7 @@
 					if($this->session->flashdata('success_register') !='')
 					{ ?>
 						<a class="btn btn-success btn-icon-split">
-							<span class="text">Berhasil masuk, login berhasil dilakukan.</span>
+							<span class="text">Berhasil Mendaftar, Pendaftaran akun berhasil dilakukan.</span>
 						</a>
 					<?php }
 				?>
