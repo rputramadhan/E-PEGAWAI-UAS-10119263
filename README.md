@@ -14,7 +14,7 @@
 
 ## Tentang Apilikasi
 
-[![Product Name Screen Shot][product-screenshot]](https://cdn.pixabay.com/photo/2020/01/07/06/36/web-4746871_960_720.png)
+![alt text](http://cdn.pixabay.com/photo/2020/01/07/06/36/web-4746871_960_720.png)
 
 There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
 
