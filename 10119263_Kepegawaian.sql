@@ -1,6 +1,6 @@
 -- MariaDB dump 10.17  Distrib 10.4.14-MariaDB, for Win64 (AMD64)
 --
--- Host: localhost    Database: pegawai
+-- Host: localhost    Database: 10119263_kepegawaian
 -- ------------------------------------------------------
 -- Server version	10.4.14-MariaDB
 
@@ -108,7 +108,7 @@ CREATE TABLE `data_pegawai` (
 
 LOCK TABLES `data_pegawai` WRITE;
 /*!40000 ALTER TABLE `data_pegawai` DISABLE KEYS */;
-INSERT INTO `data_pegawai` VALUES ('KPE-1','Rkdwan Ramadhan','Jln leuwipanjang gg kebonlega 2','2001-11-26','Islam','Pria','KKW-1','KJ-1','KPG-1','KPD-1','KRJ-1'),('KPE-2','Dina Rohmatin Utami','Jln lengkong barat no 24','2001-10-10','Islam','Wanita','KKW-2','KJ-5','KPG-2','KPD-2','KRJ-2'),('KPE-3','Dimas Mahenra','Jln Ahmad Yani no 22','1998-06-01','Islam','Pria','KKW-3','KJ-4','KPG-3','KPD-3','KRJ-3'),('KPE-4','Gilang Muharram','Jln Pungkur Sari selatan no 42','2001-10-10','Islam','Pria','KKW-4','KJ-3','KPG-4','KPD-4','KRJ-4'),('KPE-5','Muhaamad Abdul Haris','STaman Cibaduyut Indah Blok O no 21','2001-10-10','Islam','Pria','KKW-5','KJ-2','KPG-5','KPD-5','KRJ-5');
+INSERT INTO `data_pegawai` VALUES ('KPE-1','Ridwan Ramadhan','Jln leuwipanjang gg kebonlega 2','2001-11-26','Islam','Pria','KKW-1','KJ-1','KPG-1','KPD-1','KRJ-1'),('KPE-2','Dina Rohmatin Utami','Jln lengkong barat no 24','2001-10-10','Islam','Wanita','KKW-2','KJ-5','KPG-2','KPD-2','KRJ-2'),('KPE-3','Dimas Mahenra','Jln Ahmad Yani no 22','1998-06-01','Islam','Pria','KKW-3','KJ-4','KPG-3','KPD-3','KRJ-3'),('KPE-4','Gilang Muharram','Jln Pungkur Sari selatan no 42','2001-10-10','Islam','Pria','KKW-4','KJ-3','KPG-4','KPD-4','KRJ-4'),('KPE-5','Muhaamad Abdul Haris','STaman Cibaduyut Indah Blok O no 21','2001-10-10','Islam','Pria','KKW-5','KJ-2','KPG-5','KPD-5','KRJ-5');
 /*!40000 ALTER TABLE `data_pegawai` ENABLE KEYS */;
 UNLOCK TABLES;
 
@@ -218,7 +218,7 @@ CREATE TABLE `tb_user` (
 
 LOCK TABLES `tb_user` WRITE;
 /*!40000 ALTER TABLE `tb_user` DISABLE KEYS */;
-INSERT INTO `tb_user` VALUES ('ridwanokim','$2y$10$XBWOVjd4uCCgSI9Bmg.Du.nDioR94VRVzAn0UGjwagmcNsZ96KTf6','Ridwan Ramadhan'),('taufik','$2y$10$XD2aevubxM5OSdW5DAkR3.3fUOT1LGFVRA6P3k2JK.sZ6SgPvI2Ty','Taufik Hidayat');
+INSERT INTO `tb_user` VALUES ('admin','$2y$10$7ZeCwKOFxs8bP5UJyUxsn.MqFQwXR.418tRbE0Ao4f1pZUA43TWha','Ridwan Ramadhan');
 /*!40000 ALTER TABLE `tb_user` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
